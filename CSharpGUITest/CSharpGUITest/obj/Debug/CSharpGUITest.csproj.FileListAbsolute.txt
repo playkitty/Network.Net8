@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\bin\Debug\CSharpGUITest.exe.config
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\bin\Debug\CSharpGUITest.exe
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\bin\Debug\CSharpGUITest.pdb
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.Form1.resources
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.exe
+C:\Users\Administrator\source\repos\CSharpGUITest\CSharpGUITest\obj\Debug\CSharpGUITest.pdb

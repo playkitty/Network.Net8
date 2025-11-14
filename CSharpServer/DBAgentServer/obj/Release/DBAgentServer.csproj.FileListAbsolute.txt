@@ -1,0 +1,7 @@
+D:\Network\CSharpServer\DBAgentServer\bin\Release\DBAgentServer.exe.config
+D:\Network\CSharpServer\DBAgentServer\bin\Release\DBAgentServer.exe
+D:\Network\CSharpServer\DBAgentServer\bin\Release\DBAgentServer.pdb
+D:\Network\CSharpServer\DBAgentServer\obj\Release\DBAgentServer.csprojAssemblyReference.cache
+D:\Network\CSharpServer\DBAgentServer\obj\Release\DBAgentServer.csproj.CoreCompileInputs.cache
+D:\Network\CSharpServer\DBAgentServer\obj\Release\DBAgentServer.exe
+D:\Network\CSharpServer\DBAgentServer\obj\Release\DBAgentServer.pdb

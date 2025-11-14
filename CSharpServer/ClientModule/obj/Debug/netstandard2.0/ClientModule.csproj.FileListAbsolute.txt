@@ -1,0 +1,16 @@
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.csproj.AssemblyReference.cache
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.AssemblyInfoInputs.cache
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.AssemblyInfo.cs
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.csproj.CoreCompileInputs.cache
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.sourcelink.json
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\ClientModule.dll.config
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\ClientModule.deps.json
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\ClientModule.dll
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\ClientModule.pdb
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\Common.dll
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\Common.pdb
+D:\GitHub\Network\CSharpServer\ClientModule\bin\Debug\netstandard2.0\Common.dll.config
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientMo.251147AB.Up2Date
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.dll
+D:\GitHub\Network\CSharpServer\ClientModule\obj\Debug\netstandard2.0\ClientModule.pdb

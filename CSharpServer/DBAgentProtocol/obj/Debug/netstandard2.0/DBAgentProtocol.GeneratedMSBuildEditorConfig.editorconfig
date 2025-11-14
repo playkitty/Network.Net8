@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DBAgentProtocol
+build_property.ProjectDir = D:\GitHub\Network\CSharpServer\DBAgentProtocol\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

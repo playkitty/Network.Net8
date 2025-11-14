@@ -1,0 +1,17 @@
+{
+	"ServiceMode": true,
+	"AgentServer": {
+		"ip": "127.0.0.1",
+		"port": 19004,
+		"receiveBandWidth":10240,
+		"sendBandWidth":1024,
+		"connectionPoolSize": 3
+	},
+	"DBAgentServer": {
+		"ip": "127.0.0.1",
+		"port": 19005,
+		"receiveBandWidth":1024,
+		"sendBandWidth":1024
+	},
+	"ServiceNames":["NateOnBiz AgentService","Add Servicename"]
+}

@@ -1,0 +1,12 @@
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.csproj.AssemblyReference.cache
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.AssemblyInfoInputs.cache
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.AssemblyInfo.cs
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.csproj.CoreCompileInputs.cache
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.sourcelink.json
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\bin\Debug\netstandard2.0\DBAgentProtocol.dll.config
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\bin\Debug\netstandard2.0\DBAgentProtocol.deps.json
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\bin\Debug\netstandard2.0\DBAgentProtocol.dll
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\bin\Debug\netstandard2.0\DBAgentProtocol.pdb
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.dll
+D:\GitHub\Network\CSharpServer\DBAgentProtocol\obj\Debug\netstandard2.0\DBAgentProtocol.pdb

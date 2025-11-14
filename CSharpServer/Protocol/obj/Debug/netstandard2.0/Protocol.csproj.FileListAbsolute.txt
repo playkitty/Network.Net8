@@ -1,0 +1,12 @@
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.csproj.AssemblyReference.cache
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.AssemblyInfoInputs.cache
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.AssemblyInfo.cs
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.csproj.CoreCompileInputs.cache
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.sourcelink.json
+D:\GitHub\Network\CSharpServer\Protocol\bin\Debug\netstandard2.0\Protocol.dll.config
+D:\GitHub\Network\CSharpServer\Protocol\bin\Debug\netstandard2.0\Protocol.deps.json
+D:\GitHub\Network\CSharpServer\Protocol\bin\Debug\netstandard2.0\Protocol.dll
+D:\GitHub\Network\CSharpServer\Protocol\bin\Debug\netstandard2.0\Protocol.pdb
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.dll
+D:\GitHub\Network\CSharpServer\Protocol\obj\Debug\netstandard2.0\Protocol.pdb

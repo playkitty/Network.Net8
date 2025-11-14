@@ -1,0 +1,14 @@
+D:\Project\CSClientTest\CSClientTest\bin\Debug\CSClientTest.exe.config
+D:\Project\CSClientTest\CSClientTest\bin\Debug\CSClientTest.exe
+D:\Project\CSClientTest\CSClientTest\bin\Debug\CSClientTest.pdb
+D:\Project\CSClientTest\CSClientTest\obj\Debug\CSClientTest.csproj.AssemblyReference.cache
+D:\Project\CSClientTest\CSClientTest\obj\Debug\CSClientTest.csproj.CoreCompileInputs.cache
+D:\Project\CSClientTest\CSClientTest\obj\Debug\CSClientTest.exe
+D:\Project\CSClientTest\CSClientTest\obj\Debug\CSClientTest.pdb
+D:\Network-main\CSClientTest\CSClientTest\bin\Debug\CSClientTest.exe.config
+D:\Network-main\CSClientTest\CSClientTest\bin\Debug\CSClientTest.exe
+D:\Network-main\CSClientTest\CSClientTest\bin\Debug\CSClientTest.pdb
+D:\Network-main\CSClientTest\CSClientTest\obj\Debug\CSClientTest.csprojAssemblyReference.cache
+D:\Network-main\CSClientTest\CSClientTest\obj\Debug\CSClientTest.csproj.CoreCompileInputs.cache
+D:\Network-main\CSClientTest\CSClientTest\obj\Debug\CSClientTest.exe
+D:\Network-main\CSClientTest\CSClientTest\obj\Debug\CSClientTest.pdb

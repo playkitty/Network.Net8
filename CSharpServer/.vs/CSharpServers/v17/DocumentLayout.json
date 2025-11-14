@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Network\\CSharpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\servermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\servermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\dbagent\\dbagentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\dbagent\\dbagentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D7785F-D8B8-4196-8026-8841850639A8}|AgentServerModule\\AgentServerModule.csproj|d:\\github\\network\\csharpserver\\agentservermodule\\agentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D7785F-D8B8-4196-8026-8841850639A8}|AgentServerModule\\AgentServerModule.csproj|solutionrelative:agentservermodule\\agentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C2DF73-483F-400C-A387-B561E1E8A38C}|ServiceRestarter\\ServiceRestarter.csproj|d:\\github\\network\\csharpserver\\servicerestarter\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C2DF73-483F-400C-A387-B561E1E8A38C}|ServiceRestarter\\ServiceRestarter.csproj|solutionrelative:servicerestarter\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\packetinvoker\\bytespacketinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\packetinvoker\\bytespacketinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\packetsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\packetsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C668891-C0A1-4283-AB0B-82C6D2C82209}|ClientModule\\ClientModule.csproj|d:\\github\\network\\csharpserver\\clientmodule\\clientmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C668891-C0A1-4283-AB0B-82C6D2C82209}|ClientModule\\ClientModule.csproj|solutionrelative:clientmodule\\clientmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830F6DE5-5893-456F-BC01-0D5A9BCBF82F}|CSharpServers\\CSharpServers.csproj|d:\\github\\network\\csharpserver\\csharpservers\\csharpservers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{830F6DE5-5893-456F-BC01-0D5A9BCBF82F}|CSharpServers\\CSharpServers.csproj|solutionrelative:csharpservers\\csharpservers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537CEFE4-7A94-4FD0-A900-1E8F0DD92D41}|DBAgentServerModule\\DBAgentServerModule.csproj|d:\\github\\network\\csharpserver\\dbagentservermodule\\dbagentservermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{537CEFE4-7A94-4FD0-A900-1E8F0DD92D41}|DBAgentServerModule\\DBAgentServerModule.csproj|solutionrelative:dbagentservermodule\\dbagentservermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\abstract\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\abstract\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468F6DD-4A81-46A5-8338-0C21CAE05030}|DBAgentProtocol\\DBAgentProtocol.csproj|d:\\github\\network\\csharpserver\\dbagentprotocol\\databasetypehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468F6DD-4A81-46A5-8338-0C21CAE05030}|DBAgentProtocol\\DBAgentProtocol.csproj|solutionrelative:dbagentprotocol\\databasetypehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|d:\\github\\network\\csharpserver\\servermodule\\servermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AEC0741-CF71-4A5E-AE87-3331FC8EDD01}|ServerModule\\ServerModule.csproj|solutionrelative:servermodule\\servermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41484EFD-885A-49D6-80C5-F01404274186}|Protocol\\Protocol.csproj|d:\\github\\network\\csharpserver\\protocol\\packet\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41484EFD-885A-49D6-80C5-F01404274186}|Protocol\\Protocol.csproj|solutionrelative:protocol\\packet\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35517F2-EFF8-42C7-9118-43285020355E}|Common\\Common.csproj|d:\\github\\network\\csharpserver\\common\\tasksyncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35517F2-EFF8-42C7-9118-43285020355E}|Common\\Common.csproj|solutionrelative:common\\tasksyncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C668891-C0A1-4283-AB0B-82C6D2C82209}|ClientModule\\ClientModule.csproj|d:\\github\\network\\csharpserver\\clientmodule\\clientmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C668891-C0A1-4283-AB0B-82C6D2C82209}|ClientModule\\ClientModule.csproj|solutionrelative:clientmodule\\clientmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerModule.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\ServerModule.cs",
+              "RelativeDocumentMoniker": "ServerModule\\ServerModule.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\ServerModule.cs",
+              "RelativeToolTip": "ServerModule\\ServerModule.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAMwGgBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:41:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentUser.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\AgentServerModule\\AgentUser.cs",
+              "RelativeDocumentMoniker": "AgentServerModule\\AgentUser.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\AgentServerModule\\AgentUser.cs",
+              "RelativeToolTip": "AgentServerModule\\AgentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:39:08.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServiceRestarter\\Service.cs",
+              "RelativeDocumentMoniker": "ServiceRestarter\\Service.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServiceRestarter\\Service.cs",
+              "RelativeToolTip": "ServiceRestarter\\Service.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:36:04.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBAgentClient.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\DBAgent\\DBAgentClient.cs",
+              "RelativeDocumentMoniker": "ServerModule\\DBAgent\\DBAgentClient.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\DBAgent\\DBAgentClient.cs",
+              "RelativeToolTip": "ServerModule\\DBAgent\\DBAgentClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:35:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "ServerModule\\DatabaseHelper.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\DatabaseHelper.cs",
+              "RelativeToolTip": "ServerModule\\DatabaseHelper.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAEBAwEoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:21:29.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BytesPacketInvoker.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\PacketInvoker\\BytesPacketInvoker.cs",
+              "RelativeDocumentMoniker": "ServerModule\\PacketInvoker\\BytesPacketInvoker.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\PacketInvoker\\BytesPacketInvoker.cs",
+              "RelativeToolTip": "ServerModule\\PacketInvoker\\BytesPacketInvoker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:31:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBAgentServerModule",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\DBAgentServerModule\\DBAgentServerModule.csproj",
+              "RelativeDocumentMoniker": "DBAgentServerModule\\DBAgentServerModule.csproj",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\DBAgentServerModule\\DBAgentServerModule.csproj",
+              "RelativeToolTip": "DBAgentServerModule\\DBAgentServerModule.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T05:22:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CSharpServers",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\CSharpServers\\CSharpServers.csproj",
+              "RelativeDocumentMoniker": "CSharpServers\\CSharpServers.csproj",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\CSharpServers\\CSharpServers.csproj",
+              "RelativeToolTip": "CSharpServers\\CSharpServers.csproj",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T05:17:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientModule.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ClientModule\\ClientModule.cs",
+              "RelativeDocumentMoniker": "ClientModule\\ClientModule.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ClientModule\\ClientModule.cs",
+              "RelativeToolTip": "ClientModule\\ClientModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:01:23.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketSender.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\PacketSender.cs",
+              "RelativeDocumentMoniker": "ServerModule\\PacketSender.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\PacketSender.cs",
+              "RelativeToolTip": "ServerModule\\PacketSender.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:22:12.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\Abstract\\User.cs",
+              "RelativeDocumentMoniker": "ServerModule\\Abstract\\User.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\Abstract\\User.cs",
+              "RelativeToolTip": "ServerModule\\Abstract\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:20:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseTypeHelper.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\DBAgentProtocol\\DatabaseTypeHelper.cs",
+              "RelativeDocumentMoniker": "DBAgentProtocol\\DatabaseTypeHelper.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\DBAgentProtocol\\DatabaseTypeHelper.cs",
+              "RelativeToolTip": "DBAgentProtocol\\DatabaseTypeHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:19:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServerModule",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\ServerModule.csproj",
+              "RelativeDocumentMoniker": "ServerModule\\ServerModule.csproj",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ServerModule\\ServerModule.csproj",
+              "RelativeToolTip": "ServerModule\\ServerModule.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T05:17:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\Protocol\\Packet\\Packet.cs",
+              "RelativeDocumentMoniker": "Protocol\\Packet\\Packet.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\Protocol\\Packet\\Packet.cs",
+              "RelativeToolTip": "Protocol\\Packet\\Packet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:13:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskSyncer.cs",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\Common\\TaskSyncer.cs",
+              "RelativeDocumentMoniker": "Common\\TaskSyncer.cs",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\Common\\TaskSyncer.cs",
+              "RelativeToolTip": "Common\\TaskSyncer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:01:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientModule",
+              "DocumentMoniker": "D:\\GitHub\\Network\\CSharpServer\\ClientModule\\ClientModule.csproj",
+              "RelativeDocumentMoniker": "ClientModule\\ClientModule.csproj",
+              "ToolTip": "D:\\GitHub\\Network\\CSharpServer\\ClientModule\\ClientModule.csproj",
+              "RelativeToolTip": "ClientModule\\ClientModule.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T05:01:02.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

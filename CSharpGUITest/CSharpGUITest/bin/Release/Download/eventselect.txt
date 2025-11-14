@@ -1,0 +1,52 @@
+import selectors
+import socket
+
+# Selectors 객체 생성
+sel = selectors.DefaultSelector()
+
+# 서버에 연결 후 recv 이벤트 등록
+def connect_to_server(host, port):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock.setblocking(False)  # 논블로킹 소켓 설정
+    
+    try:
+        sock.connect((host, port))  # 논블로킹 모드에서는 예외 발생 가능
+    except BlockingIOError:
+        pass  # 논블로킹 모드에서 연결 중일 때 발생하는 정상적인 예외
+
+    sel.register(sock, selectors.EVENT_WRITE, on_connected)  # 연결 완료 감지
+    print(f"Connecting to {host}:{port}...")
+
+# 연결 완료 후 recv 이벤트 등록
+def on_connected(sock):
+    sel.unregister(sock)  # 기존 이벤트 해제
+    sel.register(sock, selectors.EVENT_READ, receive_data)  # 이제 recv 이벤트 등록
+    print(f"Connected to {sock.getpeername()}, waiting for data...")
+
+# 데이터 수신 핸들러
+def receive_data(sock):
+    try:
+        data = sock.recv(1024)
+        if data:
+            print(f"Received: {data.decode()}")
+        else:
+            print("Server closed the connection")
+            sel.unregister(sock)
+            sock.close()
+    except ConnectionResetError:
+        print("Connection was reset by server")
+        sel.unregister(sock)
+        sock.close()
+
+# 이벤트 루프
+def event_loop():
+    while True:
+        events = sel.select()
+        for key, mask in events:
+            callback = key.data
+            callback(key.fileobj)
+
+# 실행
+if __name__ == "__main__":
+    connect_to_server("example.com", 80)  # 원하는 서버 주소와 포트 입력
+    event_loop()

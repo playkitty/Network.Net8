@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ServerModule
+build_property.ProjectDir = D:\GitHub\Network\CSharpServer\ServerModule\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

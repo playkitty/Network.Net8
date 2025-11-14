@@ -1,0 +1,16 @@
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.exe
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.dll.config
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.deps.json
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.runtimeconfig.json
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.dll
+D:\GitHub\Network\CSharpServer\DBAgentServer\bin\Debug\net8.0\DBAgentServer.pdb
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.AssemblyInfoInputs.cache
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.AssemblyInfo.cs
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.csproj.CoreCompileInputs.cache
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.sourcelink.json
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.dll
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\refint\DBAgentServer.dll
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.pdb
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\DBAgentServer.genruntimeconfig.cache
+D:\GitHub\Network\CSharpServer\DBAgentServer\obj\Debug\net8.0\ref\DBAgentServer.dll

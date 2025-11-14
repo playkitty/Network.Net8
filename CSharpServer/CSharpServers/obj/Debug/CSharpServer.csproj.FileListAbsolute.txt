@@ -1,0 +1,7 @@
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\bin\Debug\CSharpServer.exe.config
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\bin\Debug\CSharpServer.exe
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\bin\Debug\CSharpServer.pdb
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\obj\Debug\CSharpServer.csproj.AssemblyReference.cache
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\obj\Debug\CSharpServer.csproj.CoreCompileInputs.cache
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\obj\Debug\CSharpServer.exe
+D:\OProject\O2O\Program\CSharpServer\CSharpServer\obj\Debug\CSharpServer.pdb
